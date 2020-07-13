@@ -4,3 +4,7 @@
 - 🌱 After working with Matlab for a decade, I’m currently learning to be efficient in python  :smile:. I am particularly interested in using [xarray](http://xarray.pydata.org/en/stable/) and [scikit-learn](https://scikit-learn.org/stable/)
 - :sunrise: I'm interested in [Open Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/)
 - 📫 You can reach me on [my website](http://lhoupert.fr) or through [Twitter](https://twitter.com/LoicHoupert) 
+
+<!--[![](http://hits.dwyl.com/lhoupert/lhoupert.svg)](http://hits.dwyl.com/lhoupert/lhoupert)
+-->
+![](https://hits.dwyl.com/lhoupert/lhoupert)
