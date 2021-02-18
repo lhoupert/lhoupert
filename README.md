@@ -3,7 +3,7 @@
 ### Hi there, I'm Loïc Houpert 👋        
 
 
-- :earth_africa: I'm a research scientist working with Ocean :ocean: and Climate :cloud: Data
+- :earth_africa: I'm a research/data scientist working with Ocean :ocean: and Climate :cloud: Data
 - 🌱 After working with Matlab for a decade, I’m finally moving away from it!  :smile: I am particularly working with Python libraries such as [xarray](http://xarray.pydata.org/en/stable/) and [scikit-learn](https://scikit-learn.org/stable/)
 - :sunrise: I'm interested in [Open Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/)
 
