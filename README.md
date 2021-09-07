@@ -5,8 +5,8 @@
 ### Hi there, I'm Loïc Houpert 👋        
 
 
-- :earth_africa: I'm a Research and Developpement Software Engineer currently working at [OSE Engineering](http://ose-engineering.fr). I also have a strong experience working with Ocean :ocean: and Climate :cloud: Data as a Research Scientist
-- 🌱 After working with Matlab for a decade, I finally moved away from it a couple of years ago!  :smile: I particularly like working with Python libraries such as [xarray](http://xarray.pydata.org/en/stable/), [HoloViz](https://holoviz.org) and [scikit-learn](https://scikit-learn.org/stable/)
+- :earth_africa: I'm a R&D Software Engineer currently working at [OSE Engineering](http://ose-engineering.fr) working with Python, algorithms and Web technologies. I also have a strong experience working with Ocean :ocean: and Climate :cloud: Data as a Research Scientist
+- 🌱 I particularly like working with Python projects such as [xarray](http://xarray.pydata.org/en/stable/), [HoloViz](https://holoviz.org), [scikit-learn](https://scikit-learn.org/stable/), [sphinx](https://www.sphinx-doc.org/en/master/) and [Django](https://www.djangoproject.com/)
 - :sunrise: I'm interested in [Open Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/)
 
 <br />
