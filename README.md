@@ -5,7 +5,7 @@
 ### Hi there, I'm Loïc Houpert 👋        
 
 
-- :earth_africa: I'm a R&D Software Engineer currently working at [OSE Engineering](http://ose-engineering.fr) working with Python, algorithms and Web technologies. I also have a strong experience working with Ocean :ocean: and Climate :cloud: Data as a Research Scientist
+- :earth_africa: I'm a Software Engineer working at [DWP Digital](https://dwpdigital.blog.gov.uk/) as part of the Intelligent Automation Garage team. I like working with Python, algorithms and Web technologies. I also have a strong experience working with Ocean :ocean: and Climate :cloud: Data as a Research Scientist
 - 🌱 I particularly like working with Python projects such as [xarray](http://xarray.pydata.org/en/stable/), [HoloViz](https://holoviz.org), [scikit-learn](https://scikit-learn.org/stable/), [sphinx](https://www.sphinx-doc.org/en/master/) and [Django](https://www.djangoproject.com/)
 - :sunrise: I'm interested in [Open Science](https://www.earthdatascience.org/courses/intro-to-earth-data-science/open-reproducible-science/get-started-open-reproducible-science/)
 
