@@ -5,14 +5,19 @@
 ### Hi there, I'm Loïc Houpert 👋        
 
 
-- 💻 I'm a Software Engineer working at [DWP Digital](https://dwpdigital.blog.gov.uk/) as part of the Intelligent Automation Garage team. 
-- :earth_africa: I like working with Python, algorithms and Web technologies. I also have a strong experience working with Ocean and Climate Data 🌊 as a Research Scientist.
-- 👍 I particularly like working with Python projects such as [xarray](http://xarray.pydata.org/en/stable/), [HoloViz](https://holoviz.org), [scikit-learn](https://scikit-learn.org/stable/), [sphinx](https://www.sphinx-doc.org/en/master/) and [Django](https://www.djangoproject.com/).
-- 🌱 I am learning Robotic Automation Process development 🤖 , Typescript, and cloud-based app development on AWS ☁️.
-- :sunrise: I'm interested in [open source cloud-based projects](https://www.cncf.io/) and [DevOps practices](https://about.gitlab.com/topics/devops/).
+💻 I'm a Software Engineer working at [DWP Digital](https://dwpdigital.blog.gov.uk/) as part of the Intelligent Automation Garage team. 
+
+:earth_africa: I like working with Python, algorithms and Web technologies. I also have a strong experience working with Ocean and Climate Data 🌊 as a Research Scientist.
+
+👍 I particularly like working with Python projects such as [xarray](http://xarray.pydata.org/en/stable/), [HoloViz](https://holoviz.org), [scikit-learn](https://scikit-learn.org/stable/), [sphinx](https://www.sphinx-doc.org/en/master/) and [Django](https://www.djangoproject.com/).
+
+🌱 I am learning Robotic Automation Process development 🤖 , Typescript, and cloud-based app development on AWS ☁️.
+
+:sunrise: I'm interested in [open source cloud-based projects](https://www.cncf.io/) and [DevOps practices](https://about.gitlab.com/topics/devops/).
 
 <br />
 
+To learn more about what I'm probably like in real life, my personality type is [Mediator - INFP-A](https://www.16personalities.com/infp-personality).
 
 <!--
 ---
