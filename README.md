@@ -1,5 +1,5 @@
 <p><pre align="center">
-<strong>L. Houpert /</strong> <a href="https://lhoupert.fr">Homepage</a> / <a href="https://twitter.com/loichoupert">Twitter</a>  / <a href="https://www.linkedin.com/in/lo%C3%AFc-houpert-29232037/">Linkedin</a> / <a href="https://github.com/lhoupert">GitHub</a> / <a href="https://gist.github.com/lhoupert">Gist</a> / <a href="https://stackoverflow.com/users/13890678/lhoupert">Stackoverflow</a> / <a href="https://scholar.google.com/citations?user=10K7fIYAAAAJ&hl=en">Google Scholar</a>
+<strong>L. Houpert /</strong> <a href="https://lhoupert.fr">Homepage</a> / <a href="https://twitter.com/loichoupert">Twitter</a>  / <a href="https://www.linkedin.com/in/lo%C3%AFc-houpert-29232037/">Linkedin</a> / <a href="https://gitlab.com/loic.houpert">GitLab</a> / <a href="https://github.com/lhoupert">GitHub</a> / <a href="https://gist.github.com/lhoupert">Gist</a> / <a href="https://stackoverflow.com/users/13890678/lhoupert">Stackoverflow</a> / <a href="https://scholar.google.com/citations?user=10K7fIYAAAAJ&hl=en">Google Scholar</a>
 </pre></p>
 
 ### Hi there, I'm Loïc Houpert 👋        
