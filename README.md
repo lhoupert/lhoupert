@@ -5,13 +5,13 @@
 ### Hi there, I'm Loïc Houpert 👋        
 
 
-💻 I'm a Software Engineer working at [DWP Digital](https://dwpdigital.blog.gov.uk/) as part of the [Intelligent Automation Garage team](https://www.youtube.com/watch?v=Emw68Hgfy90).
+💻 I'm a Software Engineer working at [DWP Digital](https://dwpdigital.blog.gov.uk/) as a Senior Cyber Platform Engineer 🛡️.
 
-:earth_africa: I like working with open-source software, algorithms and Web technologies. I also have a strong experience working with Ocean and Climate Data 🌊 as a Research Data Scientist ⛵👨‍🔬.
+:earth_africa: I like working with open-source software, algorithms, cloud-native technologies, following the DevOps ways. I also have a strong experience working with Ocean and Climate Data 🌊 as a Research Data Scientist ⛵👨‍🔬.
 
 👍 I particularly like working with Python projects 🐍 such as [xarray](http://xarray.pydata.org/en/stable/), [HoloViz](https://holoviz.org), [scikit-learn](https://scikit-learn.org/stable/), [sphinx](https://www.sphinx-doc.org/en/master/) and [Django](https://www.djangoproject.com/).
 
-🌱 I am learning TypeScript and cloud-based app development on AWS ☁️.
+🌱 I am learning the best practices to develop, deploy and operate cybersecurity solutions 🛡️ on infrastructures and products ☁️.
 
 :sunrise: I'm interested in [open source cloud-based projects](https://www.cncf.io/) ⛅, [DevOps practices](https://about.gitlab.com/topics/devops/) ♾️ , and [Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) 📊 .
 
