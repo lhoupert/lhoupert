@@ -30,13 +30,7 @@ To learn more about what I'm probably like in real life, my personality type is 
 <br />
 -->
 
----
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Loic Houpert's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lhoupert&show_icons=true&hide_border=true" />
-
-</details>
 
 
 [website]: https://lhoupert.fr
