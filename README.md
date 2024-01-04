@@ -11,9 +11,9 @@
 
 👍 I particularly like working with Python projects 🐍 such as [xarray](http://xarray.pydata.org/en/stable/), [HoloViz](https://holoviz.org), [scikit-learn](https://scikit-learn.org/stable/), [sphinx](https://www.sphinx-doc.org/en/master/) and [Django](https://www.djangoproject.com/).
 
-🌱 I am learning the best practices to develop, deploy and operate cybersecurity solutions 🛡️ on infrastructures and products ☁️.
+🌱 I am learning the best practices to develop, deploy and operate cybersecurity solutions 🛡️ on infrastructure and applications ☁️. 
 
-:sunrise: I'm interested in [open source cloud-based projects](https://www.cncf.io/) ⛅, [DevOps practices](https://about.gitlab.com/topics/devops/) ♾️ , and [Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) 📊 .
+:sunrise: I'm interested in [open source cloud-based projects](https://www.cncf.io/) ⛅, [DevOps practices](https://about.gitlab.com/topics/devops/) ♾️ , and [Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) 📊 . I am hoping to find some time this year to learn Go and Rust.
 
 <br />
 
