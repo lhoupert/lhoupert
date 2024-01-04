@@ -13,7 +13,7 @@
 
 🌱 I am learning the best practices to develop, deploy and operate cybersecurity solutions 🛡️ on infrastructure and applications ☁️. 
 
-:sunrise: I'm interested in [open source cloud-based projects](https://www.cncf.io/) ⛅, [DevOps practices](https://about.gitlab.com/topics/devops/) ♾️ , and [Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) 📊 . I am hoping to find some time this year to learn Go and Rust.
+:sunrise: I'm interested in [open source cloud-based projects](https://www.cncf.io/) ⛅, [DevOps practices](https://about.gitlab.com/topics/devops/) ♾️ , and [Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) 📊 . I am hoping to find some time this year to start learning Go and Rust.
 
 <br />
 
