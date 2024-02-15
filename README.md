@@ -5,7 +5,7 @@
 ### Hi there, I'm Loïc Houpert 👋        
 
 
-💻 I'm a Software Engineer working at [DWP Digital](https://dwpdigital.blog.gov.uk/) as a Senior Cyber Platform Engineer 🛡️.
+💻 I'm a Software Engineer working for the UK Civil Service as a Senior Cyber Platform Engineer 🛡️.
 
 :earth_africa: I like working with open-source software, algorithms, cloud-native technologies, following the DevOps ways. I also have a strong experience working with Ocean and Climate Data 🌊 as a Research Data Scientist ⛵👨‍🔬.
 
