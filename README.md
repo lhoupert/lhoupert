@@ -1,39 +1,49 @@
 <p><pre align="center">
-<strong>L. Houpert /</strong> <a href="https://lhoupert.fr">Homepage</a> / <a href="https://twitter.com/loichoupert">Twitter</a>  / <a href="https://www.linkedin.com/in/loïc-h-29232037/">Linkedin</a> / <a href="https://gitlab.com/loic.houpert">GitLab</a> / <a href="https://github.com/lhoupert">GitHub</a> / <a href="https://gist.github.com/lhoupert">Gist</a> / <a href="https://stackoverflow.com/users/13890678/lhoupert">Stackoverflow</a> / <a href="https://scholar.google.com/citations?user=10K7fIYAAAAJ&hl=en">Google Scholar</a>
+<strong>L. Houpert /</strong> <a href="mailto:houpertloic@gmail.com">Email</a> / <a href="https://www.linkedin.com/in/lo%C3%AFc-h-29232037/">LinkedIn</a> / <a href="https://gitlab.com/loic.houpert">GitLab</a> / <a href="https://github.com/lhoupert">GitHub</a> / <a href="https://gist.github.com/lhoupert">Gist</a> / <a href="https://stackoverflow.com/users/13890678/lhoupert">Stackoverflow</a> / <a href="https://scholar.google.com/citations?user=10K7fIYAAAAJ&hl=en">Google Scholar</a>
 </pre></p>
 
 ### Hi there, I'm Loïc Houpert 👋        
 
+💻 **Senior Cyber Platform Engineer** at DWP, building secure cloud infrastructure and leading container-based solutions for government cyber security operations 🛡️
 
-💻 I'm a Software Engineer working for the UK Civil Service as a Senior Cyber Platform Engineer 🛡️.
+🚀 **What I do:**
+- Build and maintain AWS cloud platforms serving 20+ users
+- Design zero-CVE container solutions using Docker & Terraform
+- Lead DevOps transformations and increase test coverage from 10% to 85%
+- Mentor engineering teams on security automation and best practices
 
-:earth_africa: I like working with open-source software, algorithms, cloud-native technologies, following the DevOps ways. I also have a strong experience working with Ocean and Climate Data 🌊 as a Research Data Scientist ⛵👨‍🔬.
+🔧 **My current tech stack:**
+- **Cloud & Infrastructure:** AWS (ECS, Lambda, S3, VPC), Terraform, Docker
+- **Languages:** Python (Flask, Django, PyTest), TypeScript, Shell scripting  
+- **DevOps:** GitLab CI/CD, pre-commit hooks, automated security scanning
+- **Containers:** Multi-stage builds, Chainguard images, container orchestration
 
-👍 I particularly like working with Python projects 🐍 such as [xarray](http://xarray.pydata.org/en/stable/), [HoloViz](https://holoviz.org), [scikit-learn](https://scikit-learn.org/stable/), [sphinx](https://www.sphinx-doc.org/en/master/) and [Django](https://www.djangoproject.com/).
+🌱 **On my learning wishlist:** Kubernetes, Go, and Rust. I am really interested in these technologies
 
-🌱 I am learning the best practices to develop, deploy and operate cybersecurity solutions 🛡️ on infrastructure and applications ☁️. 
+🧑‍🔬 **Previous life:** 10+ years as marine physicist and research scientist. I developed Python libraries to process data from ocean robots 🤖, research ships 🚢, and satellites 🛰️. Published 30+ scientific papers and spent 200+ days at sea 🌊. This background gives me unique approach to problem-solving and working with complex systems.
 
-:sunrise: I'm interested in [open source cloud-based projects](https://www.cncf.io/) ⛅, [DevOps practices](https://about.gitlab.com/topics/devops/) ♾️ , and [Data Science](https://jakevdp.github.io/PythonDataScienceHandbook/) 📊 . I am hoping to find some time this year to start learning Go and Rust.
+🏠 **When not coding:** Maintaining my homelab with self-hosted services and exploring Europe and UK in our campervan 🚐
 
-<br />
-
-To learn more about what I'm probably like in real life, my personality type is [Mediator - INFP-A](https://www.16personalities.com/infp-personality).
-
-<!--
 ---
-#### 📫 You can also find me here:
-[<img align="left" alt="lhoupert.fr" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="loichoupert | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="loic-houpert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="loic-houpert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
-<br />
-<br />
--->
 
+### 🛠️ Some technologies I work with:
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA326?style=flat-square&logo=gitlab&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+---
+
+### 📊 Recent focus areas:
+- 🔒 **Security automation:** Implementing zero-CVE container images and automated security scanning
+- 🧪 **Testing & Quality:** Transforming legacy applications with comprehensive test coverage
+- 🚀 **Platform engineering:** Building developer-friendly infrastructure and CI/CD pipelines
+- 👥 **Team enablement:** Mentoring engineers and sharing knowledge through pair programming
 
 
 
 [website]: https://lhoupert.fr
-[twitter]: https://twitter.com/loichoupert
 [linkedin]: https://linkedin.com/in/lo%C3%AFc-houpert-29232037
-[researchgate]: https://www.researchgate.net/profile/Loic_Houpert
