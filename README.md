@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Loïc Houpert 👋        
 
-💻 **Senior Cyber Platform Engineer** at DWP, building secure cloud infrastructure and leading container-based solutions for government cyber security operations 🛡️
+💻 **Senior Cyber Platform Engineer** at DWP, building secure cloud infrastructure and leading container-based solutions for data analytics 🛡️
 
 🚀 **What I do:**
 - Build and maintain AWS cloud platforms serving 20+ users
