@@ -7,9 +7,7 @@
 💻 **Senior Cyber Platform Engineer** at DWP, building secure cloud infrastructure and leading container-based solutions for data analytics 🛡️
 
 🚀 **What I do:**
-- Build and maintain AWS cloud platforms serving 20+ users
-- Design zero-CVE container solutions using Docker & Terraform
-- Lead DevOps transformations and increase test coverage from 10% to 85%
+- Build and maintain a zero-CVE container platform for data analytics on AWS
 - Mentor engineering teams on security automation and best practices
 
 🔧 **My current tech stack:**
