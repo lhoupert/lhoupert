@@ -4,7 +4,7 @@
 
 ### Hi there, I'm Loïc Houpert 👋        
 
-💻 **Cloud Platform Engineer** transitioning from DWP to Development Seed, where I'll be building infrastructure for geospatial data processing 🌍
+💻 **Cloud Platform Engineer**  building infrastructure for data processing 🌍
 
 🚀 **What I do:**
 - Build and maintain secure, zero-CVE container platforms on AWS
