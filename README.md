@@ -23,6 +23,7 @@
 🧑‍🔬 **Previous life:** 10+ years as marine physicist and research scientist working with large-scale geospatial datasets. I developed Python libraries to process data from ocean robots 🤖, research ships 🚢, and satellites 🛰️. Published 30+ scientific papers and spent 200+ days at sea 🌊. This scientific background gives me a unique perspective on building systems that process complex, distributed data.
 
 🏠 **When not coding:** Maintaining my homelab (Nextcloud, Jellyfin, Pi-hole, Traefik) and exploring Europe in our campervan 🚐
+
 ---
 
 ### 🛠️ Some technologies I work with:
