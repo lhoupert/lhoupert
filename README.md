@@ -4,23 +4,24 @@
 
 ### Hi there, I'm Loïc Houpert 👋        
 
-💻 **Cloud Platform Engineer**  building infrastructure for data processing 🌍
+💻 **Cloud Engineer** building geospatial data infrastructure for Earth observation 🛰️
 
 🚀 **What I do:**
-- Build and maintain secure, zero-CVE container platforms on AWS
-- Design cloud infrastructure for data-intensive applications
-- Contribute to open-source infrastructure tools
-- Mentor engineering teams on security automation and DevOps best practices
+- Build cloud-native platforms and data pipelines on Kubernetes for processing massive satellite imagery datasets
+- Design scalable infrastructure for Earth observation systems at ESA and EUMETSAT
+- Work with cloud-optimized geospatial formats (STAC, Zarr)
+- Contribute to open-source geospatial tools and communities
+- Focus on infrastructure-as-code and container orchestration
 
 🔧 **My tech stack:**
-- **Cloud & Infrastructure:** AWS (ECS, Lambda, S3, VPC), Kubernetes, Terraform, Docker
-- **Languages:** Python (Flask, Django, PyTest), TypeScript, Shell scripting  
+- **Cloud & Infrastructure:** AWS (ECS, Lambda, S3, VPC), Kubernetes, Terraform, AWS CDK, Docker
+- **Geospatial (learning in progress 😅):** STAC, Zarr
+- **Languages:** Python (Flask, Django, PyTest, Xarray), TypeScript, Shell scripting  
 - **DevOps:** GitLab CI/CD, GitHub Actions, automated security scanning
-- **Containers:** Multi-stage builds, Chainguard images, container orchestration
 
-🌱 **Currently learning:** Kubernetes, and Rust—excited to dive deeper into these technologies!
+🌱 **Currently learning:** Zarr ecosystem, Kubernetes in production, and geospatial data engineering patterns for planetary-scale datasets
 
-🧑‍🔬 **Previous life:** 10+ years as marine physicist and research scientist working with large-scale geospatial datasets. I developed Python libraries to process data from ocean robots 🤖, research ships 🚢, and satellites 🛰️. Published 30+ scientific papers and spent 200+ days at sea 🌊. This scientific background gives me a unique perspective on building systems that process complex, distributed data.
+🧑‍🔬 **Previous life:** 10+ years as marine physicist and research scientist working with large-scale oceanographic datasets. I developed Python libraries to process data from ocean robots 🤖, research ships 🚢, and satellites 🛰️. Published 30+ scientific papers and spent 200+ days at sea 🌊. This background in scientific data processing translates directly to building infrastructure for Earth observation systems.
 
 🏠 **When not coding:** Maintaining my homelab (Nextcloud, Jellyfin, Pi-hole, Traefik) and exploring Europe in our campervan 🚐
 
@@ -40,14 +41,13 @@
 ---
 
 ### 📊 Recent focus areas:
-- 🌍 **Geospatial infrastructure:** Building cloud platforms for Earth observation data
-- 🔒 **Security automation:** Zero-CVE container images and automated security scanning
+
+- 🛰️ **Earth observation infrastructure:** Building cloud platforms for processing satellite imagery at scale
+- 🗺️ **Geospatial data engineering:** STAC catalogs, Zarr arrays, and cloud-optimized formats
 - ☸️ **Container orchestration:** Kubernetes, ECS Fargate, and scalable deployments
-- 🧪 **Testing & Quality:** Comprehensive test coverage and CI/CD automation
-- 🌐 **Open source:** Contributing to cloud infrastructure and geospatial tools
-- 👥 **Team enablement:** Mentoring engineers and knowledge sharing
-
-
+- 🔒 **Cloud-native security:** Infrastructure-as-code and automated security practices
+- 🌐 **Open source:** Contributing to geospatial tools and Earth observation communities
+- 📝 **Knowledge sharing:** Writing about geospatial data engineering and cloud infrastructure
 
 [website]: https://lhoupert.fr
 [linkedin]: https://linkedin.com/in/lo%C3%AFc-houpert-29232037
