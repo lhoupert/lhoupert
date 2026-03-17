@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send morning message
-        run: python script.py
+        run: python .github/workflows/morning/script.py
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_KEY }}
 ```
