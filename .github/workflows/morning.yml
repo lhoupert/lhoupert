@@ -19,4 +19,4 @@ jobs:
       - name: Send morning message
         run: python .github/workflows/morning/script.py
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_KEY }}
+          CLAUDE_REFRESH_TOKEN: ${{ secrets.CLAUDE_REFRESH_TOKEN }}
