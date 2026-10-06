@@ -1,53 +1,21 @@
-<p><pre align="center">
-<strong>L. Houpert /</strong> <a href="mailto:houpertloic@gmail.com">Email</a> / <a href="https://lhoupert.fr">Website</a> / <a href="https://www.linkedin.com/in/lo%C3%AFc-h-29232037/">LinkedIn</a> / <a href="https://gitlab.com/loic.houpert">GitLab</a> / <a href="https://github.com/lhoupert">GitHub</a> / <a href="https://gist.github.com/lhoupert">Gist</a> / <a href="https://stackoverflow.com/users/13890678/lhoupert">Stackoverflow</a> / <a href="https://scholar.google.com/citations?user=10K7fIYAAAAJ&hl=en">Google Scholar</a>
-</pre></p>
+### Hi, I'm Loïc 👋
 
-### Hi there, I'm Loïc Houpert 👋        
+**Cloud engineer at [Development Seed](https://developmentseed.org/) · Earth observation data systems, from design to production · Former physical oceanographer**
 
-💻 **Cloud Engineer** building geospatial data infrastructure for Earth observation 🛰️
+I design and run the pipelines that turn satellite archives into analysis-ready, cloud-native datasets, and the checks that keep them correct once they are in production. Most of that is Python, Kubernetes and cloud-native formats like Zarr and STAC, for organisations such as ESA and EUMETSAT.
 
-🚀 **What I do:**
-- Build cloud-native platforms and data pipelines on Kubernetes for processing massive satellite imagery datasets
-- Design scalable infrastructure for Earth observation systems at ESA and EUMETSAT
-- Work with cloud-optimized geospatial formats (STAC, Zarr)
-- Contribute to open-source geospatial tools and communities
-- Focus on infrastructure-as-code and container orchestration
+Before that I spent about ten years (2010–2021) as a physical oceanographer, working with gliders and moorings in the Mediterranean and the subpolar North Atlantic, then learnt the software side at OSE Engineering and the UK Department for Work and Pensions.
 
-🔧 **My tech stack:**
-- **Cloud & Infrastructure:** AWS (ECS, Lambda, S3, VPC), Kubernetes, Terraform, AWS CDK, Docker
-- **Geospatial (learning in progress 😅):** STAC, Zarr
-- **Languages:** Python (Flask, Django, PyTest, Xarray), TypeScript, Shell scripting  
-- **DevOps:** GitLab CI/CD, GitHub Actions, automated security scanning
+The part of the job I keep coming back to is the step between raw observations and the people who use them. The ocean years left a few things other people still use:
 
-🌱 **Currently learning:** Zarr ecosystem, Kubernetes in production, and geospatial data engineering patterns for planetary-scale datasets
+- a [Mediterranean mixed-layer climatology](https://doi.org/10.17882/46532), merged from 13 hydrographic databases into 140,000+ quality-controlled profiles
+- the [UK-OSNAP glider datasets](https://doi.org/10.5285/79fdab65-0ce9-56ef-e053-6c86abc08912) at BODC, and [m_oceanglider](https://github.com/lhoupert/m_oceanglider), the MATLAB toolbox I wrote to process them
+- the [OSNAP mooring processing toolbox](https://github.com/ScotMarPhys/m_moorproc_toolbox), whose adaptation from the RAPID-MOC toolbox I led, later taken over by SAMS for its mooring cruises
 
-🧑‍🔬 **Previous life:** 10+ years as marine physicist and research scientist working with large-scale oceanographic datasets. I developed Python libraries to process data from ocean robots 🤖, research ships 🚢, and satellites 🛰️. Published 30+ scientific papers and spent 200+ days at sea 🌊. This background in scientific data processing translates directly to building infrastructure for Earth observation systems.
+Along the way: 30+ peer-reviewed papers ([Google Scholar](https://scholar.google.com/citations?user=10K7fIYAAAAJ&hl=en), [ORCID](https://orcid.org/0000-0001-8750-5631)) and about 200 days at sea.
 
-🏠 **When not coding:** Maintaining my homelab (Nextcloud, Jellyfin, Pi-hole, Traefik) and exploring Europe in our campervan 🚐
+What I'm working on now, my talks and my blog posts are on **[lhoupert.fr](https://lhoupert.fr)** ([projects](https://lhoupert.fr/projects/) · [talks](https://lhoupert.fr/talks/) · [blog](https://lhoupert.fr/posts/)).
 
----
+Outside work I keep a small homelab and explore the UK and Europe in our campervan with my family 🚐
 
-### 🛠️ Some technologies I work with:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA326?style=flat-square&logo=gitlab&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
----
-
-### 📊 Recent focus areas:
-
-- 🛰️ **Earth observation infrastructure:** Building cloud platforms for processing satellite imagery at scale
-- 🗺️ **Geospatial data engineering:** STAC catalogs, Zarr arrays, and cloud-optimized formats
-- ☸️ **Container orchestration:** Kubernetes, ECS Fargate, and scalable deployments
-- 🔒 **Cloud-native security:** Infrastructure-as-code and automated security practices
-- 🌐 **Open source:** Contributing to geospatial tools and Earth observation communities
-- 📝 **Knowledge sharing:** Writing about geospatial data engineering and cloud infrastructure
-
-[website]: https://lhoupert.fr
-[linkedin]: https://linkedin.com/in/lo%C3%AFc-houpert-29232037
+[Website](https://lhoupert.fr) · [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-h-29232037/) · [GitLab](https://gitlab.com/loic.houpert) · [Stack Overflow](https://stackoverflow.com/users/13890678/lhoupert) · [Email](mailto:loic@lhoupert.fr)
